@@ -4,5 +4,3 @@ const alumno = "Brenda";
 console.log("Participante:", alumno);
 
 // Tu turno 👇
-const alumno2 = "Brenda";
-console.log("Participante:", alumno2);
